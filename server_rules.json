@@ -1,0 +1,16 @@
+{
+  "auto_moderation": {
+    "max_warnings": 3,
+    "mute_duration": 24,
+    "spam_threshold": 5,
+    "caps_threshold": 70
+  },
+  "verification": {
+    "enabled": true,
+    "role_name": "✅ Проверенный"
+  },
+  "logging": {
+    "enabled": true,
+    "channel_name": "📜-логи"
+  }
+}
